@@ -1,1 +1,1 @@
-# DataScience-ImageClassification-NeuralNetwork
+# DataScience-ImageClassification-NeuralNetwork-Exercise
